@@ -1,18 +1,14 @@
-# Notes session 5 juillet
+---
+layout: page
+title: Formation sur le thé de culture chinoise
+---
 
-- [ ] présentation outils : 
-  - [x] markdown - (html/css)
-  - [x] github
-- [ ] page de présentation
-  - [ ] textes
-  - [ ] images
-  - [ ] nom de domaine
+![](/assets/media/accueil_1.jpg)
 
+# Formation sur le thé de culture chinoise
 
-# Titre
+{% include uvp.md %}
 
-## Sous-titre
+## Foire aux devinettes 
 
-le **paragraphe** fff
-[Terre Pure](https://terrepure.com)
-
+{% include faq.md %}

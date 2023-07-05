@@ -1,2 +1,1 @@
-# la-luz
-page de présentation des événements de la Luz
+# Formation sur le thé de culture chinoise
