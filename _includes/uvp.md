@@ -14,32 +14,28 @@
     }
 </style>
 
-Formation sur le **Thé de culture chinoise** par **YaLin** du **mardi 27 juin au dimanche 2 juillet 2023** en Ariège à Soulan.
+> La voie yogique vers le bien-être
 
-Nous vous proposons une formation active où les personnes participantes co-décident les sujets à aborder et à approfondir tout au long des six jours.
+## Du 4 au 6 août 2023
 
-Chaque journée commence par un point sur ce que l'on a appris, ce qui n'a pas été bien compris et on poursuit en priorisant et en planifiant les sujets pour les deux jours à venir.
+Venez (re)découvrir les grands principes du Hatha Yoga :
+- les exercices appropriés (Asanas)
+- la respiration correcte (Pranayama)
+- la relaxation
+- l'alimentation saine et végétarienne
+- la pensée positive et la méditation
 
-Exemples de sujets pressentis :
-- comment préparer chaque type de thé
-- cartographie des thés 烏龍茶 - wūlóng de taïwan
-- calligraphie et thé : des gestes communs
-- cérémonie du thé : gestes, espaces et pensées chinoises
-- calligraphie : étude des termes liés au thé
-- les cultivars 
-- rando'thés : en montagne avec un brasero
-- dégustation comparative des thés, des eaux, des infusions
+Inspirez votre vie quotidienne pour plus de paix et de joie !
 
-<a href="https://boutique.brutdethé.fr/fr/formations" target="_blank" >
-    <button>Réserver ma venue</button>
-</a>
+### Informations pratiques
 
-Pour l'organisation des repas, du covoiturage, des couchages,  
-Pouvez-vous renseigner votre venue [sur ce lien](https://docs.google.com/spreadsheets/d/1LZw-EeDIfyduq9F89t3I6aEtSF1WBa7wQvalhuqomig/edit) ?
+Lieu : "Terre Pure" - 09320 Soulan (à 1h30 de Toulouse)
 
-Contact sur place : stephane@brutdethe.fr  
-Anik la propriétaire
+Contact enseignante :
+- Bérénice Péan (La Luz Yoga)
+- tél : 06 23 95 16 27
+- berenice.pean@gmail.com 
+
+Anik la propriétaire du lieu d'accueil
   - associationterrepure@gmail.com
   - +33 561 968 709
-Yalin la déformatrice :
-  - +33 666 081 188

@@ -5,7 +5,7 @@ title: Formation sur le thé de culture chinoise
 
 ![](/assets/media/accueil_1.jpg)
 
-# Formation sur le thé de culture chinoise
+# Stage de Yoga
 
 {% include uvp.md %}
 
