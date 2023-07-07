@@ -16,9 +16,23 @@ Suivant disponibilité, il existe aussi la possibilité de petits logements priv
 - caravanes
 - [chambre de retraite](https://www.airbnb.fr/rooms/575238152510124947)
 
-
 ## La logistique, ça se passe comment ?
 Les personnes qui le souhaitent, peuvent arriver la veille ou/et partir le lendemain. 
 Réservation du stage auprès de Bérénice.
 Réservation de l'hébergement et des repas auprès de Terre Pure.
   
+---
+## Informations pratiques
+
+Lieu : "Terre Pure" - 09320 Soulan (à 1h30 de Toulouse)
+
+Contact enseignante :
+- Bérénice Péan (La Luz Yoga)
+- tél : 06 23 95 16 27
+- berenice.pean@gmail.com 
+
+Contact lieu d'accueil Terre Pure
+- tel : 05 61 96 87 09
+- associationterrepure@gmail.com
+
+---

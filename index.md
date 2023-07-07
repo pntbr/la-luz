@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Formation sur le thé de culture chinoise
+title: Stage de Yoga à Terre Pure animé par Bérénice
 ---
 
 ![](/assets/media/accueil_1.jpg)
