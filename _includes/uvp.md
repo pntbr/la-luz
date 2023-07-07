@@ -29,9 +29,9 @@ Inspirez votre vie quotidienne pour plus de paix et de joie !
 
 ## Programme du stage
 
-(L’arrivée se fait le vendredi début d’après midi (premier cours à 16h30)
+L’arrivée se fait le vendredi début d’après midi, pour vous permettre de vous installer tranquillement. Le premier cours aura lieu à 16h30.
 
-Le départ se fera le dimanche après le cours d’asanas, vers 18 h30)) 
+Le départ se fera le dimanche après le cours d’asanas, vers 18 h30. 
 
 Planning d'une journée type :
 
@@ -45,7 +45,7 @@ Planning d'une journée type :
 
 (Temps calme, repos, ballade)
 
-16h30-18h30 : Cours postural
+16h30-18h15 : Cours postural
 
 18h30 : Repas végétarien
 
