@@ -1,4 +1,4 @@
-## Combien coûte la formation ?
+## Combien coûte le stage de yoga ?
 Le stage coûte 130€ du vendredi après-midi au dimanche fin de journée, +5€ par jour (soit 15€) pour Terre Pure. 
 Soit un total de 145€.
 
@@ -9,7 +9,7 @@ Viennent se rajouter l'hébergement (10€) et les repas sur place (8€/repas).
   
 C'est précisément ici entre Saint-Girons et Massat [map](https://goo.gl/maps/KrBqzNXAtZcAgnZ99). 
 
-### Pour dormir
+### Infos pour dormir
 Il est possible de camper sur place, ou de venir avec son camion ou camping car. Vous pouvez aussi décider de dormir chez vous, malgré tout l'immersion ne sera pas la même que le reste du groupe.
 
 Suivant disponibilité, il existe aussi la possibilité de petits logements privatifs :
