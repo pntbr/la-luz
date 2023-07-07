@@ -18,7 +18,7 @@ Suivant disponibilité, il existe aussi la possibilité de petits logements priv
 
 
 ## La logistique, ça se passe comment ?
-Les personnes qui le souhaite peuvent arriver la veille ou/et partir le lendemain. 
+Les personnes qui le souhaitent, peuvent arriver la veille ou/et partir le lendemain. 
 Réservation du stage auprès de Bérénice.
 Réservation de l'hébergement et des repas auprès de Terre Pure.
   
