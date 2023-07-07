@@ -1,30 +1,24 @@
 ## Combien coûte la formation ?
-
 Le stage coûte 130€ du vendredi après-midi au dimanche fin de journée, +5€ par jour (soit 15€) pour Terre Pure. 
-Soit un total de 145€ TTC.
+Soit un total de 145€.
+
+Viennent se rajouter l'hébergement (10€) et les repas sur place (8€/repas).
 
 ## Et, c'est où ?
 Ça va se dérouler à [Terre Pure](https://www.terrepure.com/en-ariege), sur une propriété de 6 hectares dans un site calme et verdoyant, avec des départs de promenades un peu partout.  
   
 C'est précisément ici entre Saint-Girons et Massat [map](https://goo.gl/maps/KrBqzNXAtZcAgnZ99). 
 
-## Comment venir ?
-Vous pouvez vous rapprocher en train à la gare de Boussens, et finir en bus à Saint-Girons. Vous ne serez plus qu'à 20 minutes et nous pourrons passer vous récupérer.  
-
 ### Pour dormir
-Il y a un dortoir qui peut accueillir 6 personnes avec une chambre pour deux personnes. Il faut prévoir ses draps ou un duvet.  
-
-Il est possible de camper sur place.  
+Il est possible de camper sur place, ou de venir avec son camion ou camping car. Vous pouvez aussi décider de dormir chez vous, malgré tout l'immersion ne sera pas la même que le reste du groupe.
 
 Suivant disponibilité, il existe aussi la possibilité de petits logements privatifs :
 - caravanes
 - [chambre de retraite](https://www.airbnb.fr/rooms/575238152510124947)
 
-### Participation aux frais ?
-Le domaine nous demande une participation de 5 euros par personne et 10 euros pour dormir.
-Pour le reste, vous pourrez participer au frais des repas ou vous laisser inviter par l'organisation.  
-Nous souhaitons que les contraintes financières ne soient pas un frein à votre venue.  n
 
 ## La logistique, ça se passe comment ?
-Les personnes qui le souhaite peuvent arriver la veille ou/et partir le lendemain.  
+Les personnes qui le souhaite peuvent arriver la veille ou/et partir le lendemain. 
+Réservation du stage auprès de Bérénice.
+Réservation de l'hébergement et des repas auprès de Terre Pure.
   
