@@ -14,7 +14,7 @@
     }
 </style>
 
-> La voie yogique vers le bien-être
+> "La voie yogique vers le bien-être."
 
 ## Du 4 au 6 août 2023
 
@@ -36,6 +36,7 @@ Contact enseignante :
 - tél : 06 23 95 16 27
 - berenice.pean@gmail.com 
 
-Anik la propriétaire du lieu d'accueil
-  - associationterrepure@gmail.com
+Contact lieu d'accueil Terre Pure
+- tel : 05 61 96 87 09
+- associationterrepure@gmail.com
   - +33 561 968 709
