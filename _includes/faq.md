@@ -1,14 +1,3 @@
-<script>
-    window.addEventListener("load", function(event) {
-        // display the first answer
-        document.querySelector("dd").classList.toggle('visible')
-        const dts = document.querySelectorAll("dt")
-        dts.forEach(dt => dt.addEventListener('click', event => {
-            event.currentTarget.nextElementSibling.classList.toggle('visible')
-        }))
-    });
-</script>
-
 ## Combien coûte la formation ?
 
 Nous demandons 50 € par jour, soit un total de 300 € par personne
